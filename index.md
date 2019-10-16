@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP virtual patching best practices
 tags: example-tag
 level: 4
+type: documentation
 
 ---
 
