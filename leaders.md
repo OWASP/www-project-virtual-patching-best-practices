@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Ryan Barnett](mailto://ryan.barnett@owasp.org)
+* [Ryan Barnett](mailto:ryan.barnett@owasp.org)
